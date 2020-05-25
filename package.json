@@ -1,0 +1,20 @@
+{
+  "name": "Canvas2DLibrary",
+  "version": "1.0.0",
+  "description": "一个手写的基于typescript的 canvas 2D库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilugirl/Canvas2DLibrary.git"
+  },
+  "keywords": ["canvas", "typescript"],
+  "author": "Liu Yi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilugirl/Canvas2DLibrary/issues"
+  },
+  "homepage": "https://github.com/lilugirl/Canvas2DLibrary#readme"
+}
